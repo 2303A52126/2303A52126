@@ -28,7 +28,7 @@ I am a **Computer Science student specializing in Artificial Intelligence and Ma
 
 **BTech – Computer Science Engineering (AI & ML)**  
 📅 **Aug 2023 – May 2027**  
-📊 **CGPA:** 8.5 / 10  
+📊 **CGPA:** 8.8 / 10  
 
 ---
 
